@@ -1,0 +1,96 @@
+*{padding:0; margin:0}
+body{
+    padding:0; 
+    margin:0;
+    font-family:tahoma
+}
+header{
+    background:#fbfbfa;
+    overflow:hidden
+}
+.mheader{
+    width:1000px;
+    margin:0 auto
+}
+.logo{
+    width:180px;
+    float:left;
+    padding-top:5px
+}
+.menu{
+    width:700px;
+    float:left
+}
+ul{
+    list-style-type:none;
+    text-align: center;
+    overflow: hidden;
+    width: 100%;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+}
+li{
+    float:left;
+    line-height:15px;
+    width: 100px;
+    line-height: 40px;
+    font-size:12px
+}
+.search{
+    width:35px;
+    float:left;
+    padding-top:12px;
+    padding-left:15px
+}
+.giohang{
+    width:50px;
+    float:left;
+    padding-top:9px;
+}
+.banner{
+    position: relative;
+}
+
+
+
+.content{
+    width:100%;
+    height:240px;
+    margin:0 auto;
+    padding-top:50px;
+    background:#f7f8f6;
+    overflow:hidden
+}
+.item{
+    width:1000px;
+    margin:0 auto;
+}
+.item1{
+    font-size:20px
+}
+.item2{
+    float:left;
+    width:220px;
+    line-height:40px
+}
+.item3{
+    float:left;
+    width:220px;
+    padding-left:20px;
+    line-height:40px
+}
+.item4{
+    float:left;
+    width:220px;
+    padding-left:20px;
+    line-height:40px
+}
+.item5{
+    float:left;
+    width:220px;
+    padding-left:20px;
+    line-height:40px
+}
+.content2{width:100%;height:45px;margin:0 auto;padding-top:20px;background:white;overflow:hidden;text-align:center;}
